@@ -1,6 +1,10 @@
 # Data Analytics 
 
-- Ainda em construção e atualização xD
+Repository for case studies and data analysis.
 
-* Repositório dedicado para estudo de casos envolvendo estatística, machine learning e conhceimentos específicos. 
+It also serves as a support for the development of projects for subjects of the post-production course.
+
+The topics in this repository cover topics such as machine learning, data separation algorithms, balancing, metrics, among others.
+
+[in continuous construction]
 
